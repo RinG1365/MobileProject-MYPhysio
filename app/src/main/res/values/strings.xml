@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MYPhysio</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+
+    <string name="title_activity_main_menu">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="title_activity_profile">Profile</string>
+
+    <string-array name="gender">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+
+    <string name="spinnerprompt">Gender</string>
+    <string name="title_activity_health_record">Your Health Record</string>
+    <string name="title_activity_appointment">Your Appointment</string>
+
+    <string name="btnPositive">Yes</string>
+    <string name="btnNegative">No</string>
+
+    <string-array name="apptype">
+        <item>Face to Face</item>
+        <item>Telemedicine</item>
+    </string-array>
+
+    <string name="apptypeprompt">Appointment Type</string>
+
+    <string-array name="appsession">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="appsessionprompt">Session</string>
+    <string name="title_activity_exercise_video">Exercise Video</string>
+</resources>

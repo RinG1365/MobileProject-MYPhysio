@@ -1,0 +1,50 @@
+Group Members: 
+LEE ZHI XIN B031610091 
+CHEAH ZHI QING B031610096 
+LEE PIK YUN B031610137 
+YIP XUE KEI B031610095
+COURSE: 3BITS S1G2
+
+MYPhysio system provide licensed physiotherapy professionals by provide rehabilitation plan through the web-based system.  
+It helps keep patient out of hospitals, emergency rooms and nursing homes especially elderly and patients 
+with serious musculoskeletal injury.  
+
+Most of them are inconvenient to visit the physiotherapist and as a result their conditions become worsen and treatment 
+becomes more expensive.
+
+Besides, in-home care is more personalized than the care most patients receive in a doctor’s office or hospital.  
+Many physiotherapists faced busy caseloads per day and each visit is very brief.  
+By bringing care directly to the patient, physio treatment is customized to each patient’s individual medical needs.
+Furthermore, MYPhysio system bring benefit to patient who live a significant distance from any hospital or 
+physiotherapy center the opportunity to receive routine care.  
+
+MYPhysio is a system that aims to help patient better manage the health by receiving quality physiotherapy. 
+Patients’ and physiotherapists’ information will be stored in database and admin is allows to add, update or delete the information 
+occasionally.  
+The project is purposed to be implemented in web-based for admin and physiotherapist while mobile-based for patient.
+
+Target system user
+1.	Patient
+2.	Physiotherapist
+3.	Admin
+
+Module to be developed
+1.	Login module
+
+2.	Appointment module
+
+3.	Electronic Medical Record (EMR) module
+
+4.	Profile Managing module
+
+5.	Physiotherapy Rehabilitation module
+Registered patient able to carry out exercise based on the assigned rehabilitation plan and upload their exercises video.
+
+6.	Payment module
+
+
+Libraries used
+1. Volley
+2. Mediarouter
+3. RecycleView
+
